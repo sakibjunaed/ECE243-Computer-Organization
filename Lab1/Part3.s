@@ -11,6 +11,8 @@ _start:
 
 END:        B       END             
 
+//ignore
+
 /* Subroutine to find the largest integer in a list
  * Parameters: R0 has the number of elements in the list
  *             R1 has the address of the start of the list
