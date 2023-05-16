@@ -1,6 +1,6 @@
 /* Program that converts a binary number to decimal */
            
-           .text               // executable code follows
+           .text               // executable code follows IGNOREE
            .global _start
 _start:
             MOV    R4, #N
